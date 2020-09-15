@@ -51,7 +51,9 @@ songplays - records in event data associated with song plays. Columns for the ta
 
 
 ## How to Run
-#### Use [IaC-Redshift-Cluster.py](https://github.com/TabbieD/Udacity-Data-Engineering-Projects-/blob/master/Redshift_Cluster_IaC.py "Redshift_Cluster_IaC.py") from [Data_Engineering_Projects](https://github.com/TabbieD/Udacity-Data-Engineering-Projects-) to launch Redshift Cluster.
+#### Use [IaC-Redshift-Cluster.py](https://github.com/TabbieD/Udacity-Data-Engineering-Projects-/blob/master/Redshift_Cluster_IaC.py "Redshift_Cluster_IaC.py") from the project to launch Redshift Cluster.
+
+    $ python Iac-Redshift-Cluster.py
 
 #### Setup Configurations 
 Setup the dwh.cfg file (File not added in this repository). File format for **dwh.cfg**
